@@ -45,7 +45,7 @@ systems involved. Hell, you might even try actually posting it to StackOverflow.
 A quick note here on AI assistants. I haven't had many VSPs since they've been
 widely available, but at least in theory an AI assistant is ideal for solving
 them. They *should* have precise knowledge of these systems and the ability to
-identify and answer the relevant triva question. Unfortunately the few times
+identify and answer the relevant trivia question. Unfortunately the few times
 I've tried this they've produced confidently wrong answers. Twice I was able to
 spot the fluent bullshit, but I have taken the bait once and wasted time by
 believing an AI answer. It's worth trying, but be highly skeptical of whatever
